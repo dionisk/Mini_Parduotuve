@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\Mini_Parduotuve\Mini_Parduotuve\bin\Debug\Mini_Parduotuve.exe.config
+C:\Users\PC\source\repos\Mini_Parduotuve\Mini_Parduotuve\bin\Debug\Mini_Parduotuve.exe
+C:\Users\PC\source\repos\Mini_Parduotuve\Mini_Parduotuve\bin\Debug\Mini_Parduotuve.pdb
+C:\Users\PC\source\repos\Mini_Parduotuve\Mini_Parduotuve\obj\Debug\Mini_Parduotuve.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Mini_Parduotuve\Mini_Parduotuve\obj\Debug\Mini_Parduotuve.Main_Form.resources
+C:\Users\PC\source\repos\Mini_Parduotuve\Mini_Parduotuve\obj\Debug\Mini_Parduotuve.Properties.Resources.resources
+C:\Users\PC\source\repos\Mini_Parduotuve\Mini_Parduotuve\obj\Debug\Mini_Parduotuve.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Mini_Parduotuve\Mini_Parduotuve\obj\Debug\Mini_Parduotuve.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Mini_Parduotuve\Mini_Parduotuve\obj\Debug\Mini_Parduotuve.exe
+C:\Users\PC\source\repos\Mini_Parduotuve\Mini_Parduotuve\obj\Debug\Mini_Parduotuve.pdb
+C:\Users\PC\source\repos\Mini_Parduotuve\Mini_Parduotuve\obj\Debug\Mini_Parduotuve.AddToBasketForm.resources
+C:\Users\PC\source\repos\Mini_Parduotuve\Mini_Parduotuve\obj\Debug\Mini_Parduotuve.BasketReviewForm.resources
+C:\Users\PC\source\repos\Mini_Parduotuve\Mini_Parduotuve\obj\Debug\Mini_Parduotuve.ShipmentForm.resources
